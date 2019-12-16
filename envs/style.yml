@@ -1,0 +1,9 @@
+name: style
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - scikit-image
+  - scipy
+  - tensorflow=2.0
